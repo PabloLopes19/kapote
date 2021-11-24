@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Qual é o nome completo do pai do Lamarckismo?",
+        "alts": [
+            "João-Baptiste Lamarck",
+            "Jean-Batista Lamarck",
+            "Jean-Baptiste Lamarck",
+            "Jean-Baptiste Lamar"
+        ],
+        "rightAlt": "Jean-Baptiste Lamarck"
+    },
+    {
+        "question": "Qual é o nome da lei mais famosa criada por ele?",
+        "alts": [
+            "Lei da Gravidade",
+            "Lei do Uso e Desuso",
+            "Lei da Transfiguração",
+            "Lei da Seleção Natural"
+        ],
+        "rightAlt": "Lei do Uso e Desuso"
+    },
+    {
+        "question": "Onde nasceu Jean-Baptiste?",
+        "alts": [
+            "Portugal",
+            "Itália",
+            "Espanha",
+            "França"
+        ],
+        "rightAlt": "França"
+    },
+    {
+        "question": "Qual é o nome completo do pai do Darwinismo?",
+        "alts": [
+            "Charles Darwin",
+            "Carlos Darwin",
+            "Charles Darwon",
+            "Carlinhos Darwin"
+        ],
+        "rightAlt": "Charles Darwin"
+    },
+    {
+        "question": "Qual é a ideia mais conhecida de Darwin?",
+        "alts": [
+            "Time natural",
+            "Jogo natural",
+            "Seleção natural",
+            "Seleção comum"
+        ],
+        "rightAlt": "Seleção natural"
+    },
+    {
+        "question": "Qual é o nome da obra mais conhecida de Charles?",
+        "alts": [
+            "Nascimento das espécies",
+            "Origem das espécies",
+            "Criação das espécies",
+            "Linhagem das espécies"
+        ],
+        "rightAlt": "Origem das espécies"
+    },
+    {
+        "question": "O neodarwinismo é o melhoramento de que ideias?",
+        "alts": [
+            "Darwinismo e Mendelismo",
+            "Darwinismo e Wallacismo",
+            "Darwinismo e Criacionismo",
+            "Darwinismo e Lamarckismo"
+        ],
+        "rightAlt": "Darwinismo e Lamarckismo"
+    },
+    {
+        "question": "Onde nasceu Charles Darwin?",
+        "alts": [
+            "Inglaterra",
+            "Alemanha",
+            "Estados Unidos",
+            "Irlanda"
+        ],
+        "rightAlt": "Inglaterra"
+    },
+    {
+        "question": "O que a Lei do Uso e Desuso explica?",
+        "alts": [
+            "Que certos seres vivos podem se desenvolver menos se forem mais usados. E, os outros entram em extinção se forem usados.",
+            "Que certos seres podem se desenvolver melhor se forem mais utilizados. Enquanto, os demais que não forem usados correm o risco de extinção",
+            "Que certos seres vivos podem se desenvolver mais se forem mais usados. Mas os outros seres se não utilizados, não correm o risco de extinção",
+            "Que certos seres podem se desenvolver melhor se forem menos utilizados. Todavia, os demais que não forem utilizados também correm o risco de extinção"
+        ],
+        "rightAlt": "Que certos seres podem se desenvolver melhor se forem mais utilizados. Enquanto, os demais que não forem usados correm o risco de extinção"
+    },
+    {
+        "question": "A Lei da Transmissão de Caracteres Adquiridos diz que de tanto em tanto tempo certas características são obtidas. Qual é o período desse tempo?",
+        "alts": [
+            "De ano em ano",
+            "De década em década",
+            "De geração em geração",
+            "De século em século"
+        ],
+        "rightAlt": "De geração em geração"
+    },
+    {
+        "question": "Que naturalista foi profundamente influenciado por Lamarck?",
+        "alts": [
+            "Charles Darwin",
+            "Gregor Mendel",
+            "Lineu",
+            "Charles Leclerc"
+        ],
+        "rightAlt": "Charles Darwin"
+    },
+    {
+        "question": "Qual é o nome das ilhas para qual Charles Darwin viajou e estudou para compreender mais sobre os seres vivos?",
+        "alts": [
+            "Ilhas Malvinas",
+            "Ilhas Galápagos",
+            "Ilhas Açores",
+            "Ilhas Mykonos"
+        ],
+        "rightAlt": "Ilhas Galápagos"
+    },
+    {
+        "question": "O que Darwin explica através da sua ideia “Seleção Natural”?",
+        "alts": [
+            "Os organismos que têm as características mais “favoráveis” possuem menores possibilidades de sobrevivência que os outros e menor chance de reprodução. Desse modo, as características “favoráveis” serão passadas para as próximas gerações",
+            "Os organismos que têm as características mais “favoráveis” possuem maiores possibilidades de sobrevivência que os outros e maior chance de reprodução. Mas, as características “favoráveis” não são passadas para as próximas gerações",
+            "Os organismos que têm as características mais “favoráveis” possuem maiores possibilidades de sobrevivência que os outros, porém, menores chances de reprodução. Desse modo, as características “favoráveis” serão passadas para as próximas gerações",
+            "Os organismos que têm as características mais “favoráveis” possuem maiores possibilidades de sobrevivência que os outros e maior chance de reprodução. Desse modo, as características “favoráveis” serão passadas para as próximas gerações"
+        ],
+        "rightAlt": "Os organismos que têm as características mais “favoráveis” possuem maiores possibilidades de sobrevivência que os outros e maior chance de reprodução. Desse modo, as características “favoráveis” serão passadas para as próximas gerações"
+    },
+    {
+        "question": "O que Lamarck e Darwin não conseguiram explicar, através do neodarwinismo, pôde ser esclarecido. O que auxiliou nesse estudo?",
+        "alts": [
+            "Botânica",
+            "Zoologia",
+            "Genética",
+            "Micologia"
+        ],
+        "rightAlt": "Genética"
+    },
+    {
+        "question": "Quais são os mecanismos que contribuem para a evolução biológica de acordo com o Neodarwinismo?",
+        "alts": [
+            "Mutação, deriva genética e seleção natural",
+            "Mutação, mudanças climáticas e deriva genética",
+            "Deriva genética, mutação e espaço físico",
+            "Seleção natural, deriva genética e sociedade"
+        ],
+        "rightAlt": "Mutação, deriva genética e seleção natural"
+    },
+    {
+        "question": "O cachorro do Pablo tem o nome baseado em qual cientista?",
+        "alts": [
+            "Charles Darwin",
+            "Albert Einstein",
+            "Fernando Alonso",
+            "Rick Sanchez"
+        ],
+        "rightAlt": "Charles Darwin"
+    }
+]
